@@ -2,6 +2,7 @@
 
 Developed an interactive and insightful Sales Analysis Dashboard, guided by advanced Power BI techniques. This project involved a comprehensive range of skills and tools to create a user-centric business intelligence solution:
 ✅Dashboard Design: Focused on an intuitive layout with interactive visuals and advanced functionalities.
+
 ✅Data Modeling: Designed a star schema to optimize data relationships and performance.
 ✅Measure Identification & KPI Development: Defined essential metrics, including total sales, profit percentage, and growth trends, and set up a dedicated measure table for organized calculations.
 ✅DAX Expertise: Created measures for KPIs, implemented time intelligence calculations (e.g., month-over-month changes), and resolved DAX-related issues for accurate results.
